@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name Ilia! 
 
 <!--
 **nu-shtosh/nu-shtosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My tech stack:
+![GITHUB](https://img.shields.io/badge/-GITHUB-green)
+![PYTHON](https://img.shields.io/badge/-PYTHON-blue)
+![DRF](https://img.shields.io/badge/-DRF-yellowgreen)
+![DOCKER](https://img.shields.io/badge/-DOCKER-lightgrey)
+
+![MEALLTIME](https://media.giphy.com/media/pOKrXLf9N5g76/giphy.gif)
