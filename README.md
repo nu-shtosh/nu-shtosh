@@ -1,4 +1,4 @@
-### Hi there 👋 My name Ilia! 
+### Hi there 👋 My name is Ilia! 
 
 <!--
 **nu-shtosh/nu-shtosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,4 +21,4 @@ My tech stack:
 ![DRF](https://img.shields.io/badge/-DRF-yellowgreen)
 ![DOCKER](https://img.shields.io/badge/-DOCKER-lightgrey)
 
-![MEALLTIME](https://media.giphy.com/media/pOKrXLf9N5g76/giphy.gif)
+![MEALLTIME](https://young.scot/media/1513/working_information_digtialcareermythbustersgif_001.jpg)
