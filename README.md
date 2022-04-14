@@ -15,10 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My tech stack:
-![GITHUB](https://img.shields.io/badge/-GITHUB-green)
+Main skills:
 ![PYTHON](https://img.shields.io/badge/-PYTHON-blue)
-![DRF](https://img.shields.io/badge/-DRF-yellowgreen)
-![DOCKER](https://img.shields.io/badge/-DOCKER-lightgrey)
+
+My tech stack:
+![VSC](https://img.shields.io/badge/-VISUAL%20STUDIO%20CODE-blue)
+![WINDOWS](https://img.shields.io/badge/-WINDOWS-lightgrey)
+![GIT](https://img.shields.io/badge/-GIT-red)
+![UNIX](https://img.shields.io/badge/-UNIX-lightgrey)
+![DOCKER](https://img.shields.io/badge/-DOCKER-blue)
+
+Areas of Interest:
+![UNITY](https://img.shields.io/badge/-UNITY-orange)
+![ASEPRITE](https://img.shields.io/badge/-ASEPRITE-brightgreen)
+
 
 ![MEALLTHETIME](https://young.scot/media/1513/working_information_digtialcareermythbustersgif_001.jpg)
