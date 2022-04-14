@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 -->
 
 Main skills:
+---
 ![PYTHON](https://img.shields.io/badge/-PYTHON-blue)
 
 My tech stack:
+---
 ![VSC](https://img.shields.io/badge/-VISUAL%20STUDIO%20CODE-blue)
 ![WINDOWS](https://img.shields.io/badge/-WINDOWS-lightgrey)
 ![GIT](https://img.shields.io/badge/-GIT-red)
@@ -26,6 +28,7 @@ My tech stack:
 ![DOCKER](https://img.shields.io/badge/-DOCKER-blue)
 
 Areas of Interest:
+---
 ![UNITY](https://img.shields.io/badge/-UNITY-orange)
 ![ASEPRITE](https://img.shields.io/badge/-ASEPRITE-brightgreen)
 
