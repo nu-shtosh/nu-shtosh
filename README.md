@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 Main skills:
 ---
 ![PYTHON](https://img.shields.io/badge/-PYTHON-blue)
@@ -32,5 +32,5 @@ Areas of Interest:
 ![UNITY](https://img.shields.io/badge/-UNITY-orange)
 ![ASEPRITE](https://img.shields.io/badge/-ASEPRITE-brightgreen)
 
-
+-->
 ![MEALLTHETIME](https://young.scot/media/1513/working_information_digtialcareermythbustersgif_001.jpg)
