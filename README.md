@@ -1,9 +1,13 @@
 ### Hello there 👋 
 
+![xx](https://fdroog.files.wordpress.com/2018/08/coffee-cat.gif?w=450)
+
 <!--
 **nu-shtosh/nu-shtosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
