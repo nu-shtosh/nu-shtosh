@@ -33,4 +33,4 @@ Areas of Interest:
 ![ASEPRITE](https://img.shields.io/badge/-ASEPRITE-brightgreen)
 
 -->
-![MEALLTHETIME](https://young.scot/media/1513/working_information_digtialcareermythbustersgif_001.jpg)
+![MEALLTHETIME](https://i.gifer.com/Ao.gif)
