@@ -10,5 +10,6 @@
   <a href="">![Alamofire](https://img.shields.io/badge/-Alamofire-red)</a>
   <a href="">![Firebase](https://img.shields.io/badge/-Firebase-red)</a>
   <a href="">![MVC](https://img.shields.io/badge/-MVC-green)</a>
+  <a href="">![CodeWars](https://www.codewars.com/users/nu-shtosh/badges/micro)</a>
   
 </div>
