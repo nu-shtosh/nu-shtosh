@@ -1,3 +1,4 @@
+<div align="center">
 ### Hello there 👋 
 
 
@@ -46,3 +47,4 @@ Areas of Interest:
 <a href="">![SwiftUi](https://img.shields.io/badge/-SwiftUI-yellow)</a>
 <a href="">![Alamofire](https://img.shields.io/badge/-Alamofire-red)</a>
 <a href="">![MVC](https://img.shields.io/badge/-MVC-green)</a>
+  </div>
